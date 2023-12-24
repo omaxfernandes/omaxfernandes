@@ -16,8 +16,8 @@
 <br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=diopdev&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=41E1CF&text_color=c9d1d9&bg_color=0d1117" alt="Max Fernandes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diopdev&layout=compact&hide_border=true&title_color=4169E1&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=omaxfernandes&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=41E1CF&text_color=c9d1d9&bg_color=0d1117" alt="Max Fernandes github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaxfernandes&layout=compact&hide_border=true&title_color=4169E1&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 <br>
 
@@ -72,13 +72,13 @@ IDEs:
 
 
 ##
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=diopdev&bg_color=0d1117&color=41e1cf&line=4169e1&point=c9d1d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omaxfernandes&bg_color=0d1117&color=41e1cf&line=4169e1&point=c9d1d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 
 
 <div align="center">
 <br><p align="centre"><b>Visits Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{diopdev}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{omaxfernandes}/count.svg" /></p> 
 <br>
 </div>
 <br>
